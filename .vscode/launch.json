@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - month",
+            "request": "launch",
+            "mainClass": "month",
+            "projectName": "Java_e1b065e4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimePalinNumList",
+            "request": "launch",
+            "mainClass": "PrimePalinNumList",
+            "projectName": "Java_e1b065e4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeNumList",
+            "request": "launch",
+            "mainClass": "PrimeNumList",
+            "projectName": "Java_e1b065e4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HollowDiamond",
+            "request": "launch",
+            "mainClass": "HollowDiamond",
+            "projectName": "Java_e1b065e4"
+        }
+    ]
+}
